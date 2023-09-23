@@ -23,7 +23,7 @@ Tools
 ##
 
 ### 📌 Links    
-[포트폴리오] [http://alynxlee.github.io/2023portfolio/]
+[Portfolio] (http://alynxlee.github.io/2023portfolio/, "portfolio link)
 
 ##
 
