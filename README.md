@@ -1,5 +1,7 @@
 Hi there 👋 I'm Hyejin - a Web Publisher!
 
+***
+
 ### 💻 Skills
 
 Languages     
@@ -18,6 +20,14 @@ Tools
 <img src="http://img.shields.io/badge/ADOBE PREMIERE PRO-9999FF?style=flat-square&logo=ADOBE PREMIERE PRO&logoColor=white"/>
 <img src="http://img.shields.io/badge/ADOBE AFTER EFFECTS-9999FF?style=flat-square&logo=ADOBE AFTER EFFECTS&logoColor=white"/>
 
+***
+
+### 📌 Links    
+<img src="http://img.shields.io/badge/PORTFOLIO-181717?style=flat-square"/>
+
+***
+
+### ⚙️ GitHub Stats    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynxlee&layout=compact"/>
 
 
