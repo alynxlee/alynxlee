@@ -18,7 +18,7 @@ Tools
 <img src="http://img.shields.io/badge/ADOBE PREMIERE PRO-9999FF?style=flat-square&logo=ADOBE PREMIERE PRO&logoColor=white"/>
 <img src="http://img.shields.io/badge/ADOBE AFTER EFFECTS-9999FF?style=flat-square&logo=ADOBE AFTER EFFECTS&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynxlee"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynxlee&layout=compact"/>
 
 
 
