@@ -13,8 +13,8 @@ Tools
 <img src="http://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=white"/>
 <img src="http://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/>
 <img src="http://img.shields.io/badge/ADOBE PHOTOSHOP-31A8FF?style=flat-square&logo=ADOBE PHOTOSHOP&logoColor=white"/>
-<img src="http://img.shields.io/badge/ADOBE ILLUSTRATOR-FF9A00?style=flat-square&logo=ADOBE ILLUSTRATOR&logoColor=black"/>
-<img src="http://img.shields.io/badge/ADOBE PREMIERE PRO-9999FF?style=flat-square&logo=ADOBE ADOBE PREMIERE PRO&logoColor=white"/>
+<img src="http://img.shields.io/badge/ADOBE ILLUSTRATOR-FF9A00?style=flat-square&logo=ADOBE ILLUSTRATOR&logoColor=white"/>
+<img src="http://img.shields.io/badge/ADOBE PREMIERE PRO-9999FF?style=flat-square&logo=ADOBE PREMIERE PRO&logoColor=white"/>
 <img src="http://img.shields.io/badge/ADOBE AFTER EFFECTS-9999FF?style=flat-square&logo=ADOBE AFTER EFFECTS&logoColor=white"/>
 
 
