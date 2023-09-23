@@ -2,8 +2,8 @@ Hi there 👋 I'm Hyejin - a Web Publisher!
 
 ### 💻 Skills
 
-Languages <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26">
+Languages
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-231572B6?style=flat-square&logo=Gmail&logoColor=white)]
 
 
 
