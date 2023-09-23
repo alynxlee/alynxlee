@@ -3,7 +3,7 @@ Hi there 👋 I'm Hyejin - a Web Publisher!
 ### 💻 Skills
 
 Languages
-[![Css3 Badge](img.shields.io/badge/CSS3-1572B6)]
+<img src="http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
 
 
