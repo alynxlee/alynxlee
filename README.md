@@ -1,5 +1,10 @@
-##### Hi there 👋 
-I'm Hyejin - a Web Publisher!
+Hi there 👋 I'm Hyejin - a Web Publisher!
+
+### 💻 Skills
+
+Languages
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26">
+
 
 
 
