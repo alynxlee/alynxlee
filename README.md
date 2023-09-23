@@ -1,7 +1,7 @@
 Hi there 👋 I'm Hyejin - a Web Publisher!
 
 ***
-======================
+##
 
 ### 💻 Skills
 
