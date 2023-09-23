@@ -3,7 +3,7 @@ Hi there 👋 I'm Hyejin - a Web Publisher!
 ### 💻 Skills
 
 Languages
-https://img.shields.io/badge/CSS3-231572B6?style=flat-square&logo=Gmail&logoColor=white
+
 
 
 
