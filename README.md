@@ -2,7 +2,7 @@ Hi there 👋 I'm Hyejin - a Web Publisher!
 
 ### 💻 Skills
 
-Languages
+Languages <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26">
 
 
